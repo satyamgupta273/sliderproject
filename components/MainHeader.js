@@ -8,8 +8,8 @@ const MainHeader = () => {
   return (
     <View style={styles.header}>
       <CustomIcon icon="menu" onPress={() => console.log('Menu pressed')} />
-      <Text style={styles.title}>Visit India</Text>
-      <CustomIcon icon="search" onPress={() => console.log('Search pressed')} />
+      {/* <Text style={styles.title}>Visit India</Text> */}
+      <CustomIcon  icon="notifications" onPress={() => console.log('Search pressed')} />
     </View>
   );
 };
