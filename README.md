@@ -30,7 +30,7 @@ cd sliderproject
 
 3. npm install
 
-4. expo start
+4. expo start/npm start
 
 5 scan QR with mobile expo go or run on web
 
